@@ -3,6 +3,8 @@
 ## Introduction
 Ce rapport présente un projet Java mettant en œuvre l'Inversion de Contrôle (IoC) et l'Injection de Dépendances (DI) selon les spécifications fournies. L'objectif est de comprendre et d'illustrer les différents mécanismes d'injection de dépendances, notamment l'injection par instanciation statique, par instanciation dynamique, ainsi que l'utilisation du framework Spring avec les versions XML et les annotations.
 ## Implementation
+![image](https://github.com/younes-makhchan/InversionControle-JEE/assets/74161217/93ab1430-aeac-4fa6-983a-0e8c4ea6910e)
+
 DaoImpl.java et IDao.java :  Ces fichiers définissent une interface IDao avec une méthode getData et une implémentation DaoImpl qui retourne une valeur factice à des fins de démonstration.
 
 DaoImplV2.java :Cette classe propose une implémentation alternative de l'interface IDao simulant une autre source de données.
